@@ -1,0 +1,21 @@
+{
+  "name": "ptrip",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "font-awesome": "^4.6.3",
+    "meteor-node-stubs": "~0.2.0",
+    "react": "^15.0.2",
+    "react-autosuggest": "^3.7.4",
+    "react-dom": "^15.0.2",
+    "react-input-enhancements": "^0.4.11",
+    "react-mounter": "^1.2.0"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

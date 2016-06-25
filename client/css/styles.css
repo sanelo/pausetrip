@@ -1,0 +1,98 @@
+
+body {
+	background-color: #4FC3F7;
+}
+
+header nav div {
+	background-color: white;
+}
+
+header nav ul a {
+	color: #4FC3F7;
+}
+
+header nav div .brand-logo {
+	padding-left: 20px;
+	color: #4FC3F7;
+}
+
+#submit {
+	margin-bottom: 15px;
+}
+
+.hero {
+	color: white;
+	text-align: center;
+}
+
+.hero h5 {
+	margin-bottom: 3.65rem;
+}
+
+.main-container {
+	padding: 50px 0px;
+}
+
+.card-panel .row {
+	margin-bottom: 0;
+}
+
+.card-content input {
+	text-align: center;
+	font-size: 2rem;
+	padding-bottom: 10px;
+}
+
+
+.card-badge {
+    min-width: 3rem;
+    text-align: center;
+    font-size: 1rem;
+    line-height: 3;
+    color: #757575;
+    box-sizing: border-box;
+    border: 1px solid #757575;
+    margin-right: 5px;
+    border-radius: 2px;
+    padding: 5px;
+    font-weight: 300;
+}
+
+.card-content > .card-title {
+	color: #4FC3F7;
+	margin: 10px 0px;
+}
+
+.small-lh {
+	line-height: 30px !important; 
+}
+
+.card-content input[type=text]:focus {
+	border-bottom: 1px solid black;
+    box-shadow: 0 1px 0 0 black;
+}
+
+.request-card .row {
+	margin-bottom: 40px;
+}
+
+.request-card h4 {
+	margin-bottom: 40px;
+}
+
+.card-panel .btn-flat {
+	color: #FFFFFF;
+	cursor: default;
+}
+
+.trip-details {
+	margin: 40px 0px;
+}
+
+
+
+
+
+.response-title {
+	margin: 2rem 0;
+}
